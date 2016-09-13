@@ -1,0 +1,31 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M2000 (ID=0x1430)
+    Vendor:   NVIDIA
+    VRAM:     4010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\unity\practice\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\unity\practice\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\unity\practice\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\unity\practice\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\unity\practice\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\unity\practice\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\unity\practice\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\unity\practice\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\unity\practice\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\unity\practice\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\unity\practice\test_Data\Managed\HoloLensXboxController.dll (this message is harmless)
+Loading E:\unity\practice\test_Data\Managed\HoloLensXboxController.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+Platform assembly: E:\unity\practice\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\unity\practice\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 3840x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.986698 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1cc4 -> priority: 1 
+  Thread -> id: 4934 -> priority: 1 
